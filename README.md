@@ -1,3 +1,5 @@
+> [!NOTE]
+> Repository moved: https://codeberg.org/bheiskel/epik-ddns
 # Dynamic DNS with Epik
 Automatically updates DNS host records with new IP.
 
